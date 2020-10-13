@@ -1,4 +1,6 @@
 package com.sun.Test;
 
-public class Service {
+
+public interface Service {
+        void go();
 }
